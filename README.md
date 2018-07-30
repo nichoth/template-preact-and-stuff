@@ -1,5 +1,5 @@
 # template preact and stuff
-A template for preact apps plus some other stuff that I like to use -- libraries for events and state management, that kind of thing.
+A template for preact apps plus some other stuff that I like to use -- state management, events, that kind of thing.
 
 The build process and development scripts are based on budo and browserify. CSS is done with `node-sass`.
 

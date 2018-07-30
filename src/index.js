@@ -1,7 +1,7 @@
 var { h, render } = require('preact')
 var connect = require('@nichoth/preact-connect')
 var Bus = require('@nichoth/events')
-var struct = require('@nichoth/observ/struct')
+var { struct } = require('./lib')
 var View = require('./view')
 
 var bus = Bus({ memo: true })
